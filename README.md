@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm lilsassi! 👋
 
-<!--
-**lilsassi/lilsassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Vietnam.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>What I'm up to</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Powered by coffee and late-night commits
+- 💬 Ask me about Go
+- 🚀 Interested in developer ergonomics
+- 🌱 Learning Neovim
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lilsassi&hide_border=true&theme=github" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lilsassi&hide_border=true&theme=blue-green" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-fb923c?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Neovim-fb923c?style=for-the-badge&logoColor=white" alt="Neovim" /> <img src="https://img.shields.io/badge/Docker-fb923c?style=for-the-badge&logoColor=white" alt="Docker" />
+</p>
+
+</details>
+
+<sub>Reach me on GitHub — @lilsassi. Say hi if you like.</sub>
